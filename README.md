@@ -1,2 +1,2 @@
 # hellow-world
-getting introduced to GitHub 
+getting introduced to GitHub d
